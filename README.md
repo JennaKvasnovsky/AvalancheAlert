@@ -38,9 +38,8 @@ These are example images from the deck
 Mountain with Avalanche
 ![Avalanche Slides](https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/8d2732b5-8889-4e70-a127-7c1cc6058812)
 
-Mountain without Avalanch
+Mountain without Avalanche
 ![AMountain](https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/dfd9c565-170e-47af-9fe5-d8413dea3033)
-
-https://docs.google.com/presentation/d/1VCm2VcFhpEISGbaMAU13tInZOcuI5w2qtCj1ZeBKtAM/edit?usp=sharing
+### Link to Data Deck Slides
 [https://docs.google.com/presentation/d/1VCm2VcFhpEISGbaMAU13tInZOcuI5w2qtCj1ZeBKtAM/edit?usp=sharing](url)
 
