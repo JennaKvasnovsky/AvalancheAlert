@@ -40,5 +40,30 @@ Mountain with Avalanche
 
 Mountain without Avalanche
 ![AMountain](https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/dfd9c565-170e-47af-9fe5-d8413dea3033)
-### Link to Data Deck Slides
-[https://github.com/JennaKvasnovsky/PassBy-Insights/blob/main/README.md](Hey how)
+## Link to Data Deck Slides
+https://docs.google.com/presentation/d/1VCm2VcFhpEISGbaMAU13tInZOcuI5w2qtCj1ZeBKtAM/edit?usp=sharing
+
+## Functions
+Sure, here are brief definitions for each term in the given order:
+
+1. Python: Python is a high-level programming language widely used in the field of machine learning and deep learning for its simplicity and versatility.
+
+2. Colab: Colab, short for Colaboratory, is a cloud-based platform provided by Google that allows users to run Python code in a Jupyter notebook environment with free access to GPU resources.
+
+3. AlexNet: AlexNet is a pioneering convolutional neural network (CNN) architecture designed for image classification tasks, notable for its success in the ImageNet Large Scale Visual Recognition Challenge.
+
+4. GPU: A Graphics Processing Unit (GPU) is a specialized hardware component that accelerates the training of deep learning models by parallelizing computations, significantly improving performance compared to traditional CPUs.
+
+5. Filters, Feature Map, Pooling: In CNNs like AlexNet, filters are small learnable weights used to convolve over input images, generating feature maps that highlight important patterns, and pooling is a downsampling operation that reduces the spatial dimensions of the feature maps.
+
+6. AlexNet's design: AlexNet's design refers to the specific architectural choices, layer configurations, and parameters used in the construction of the AlexNet model, including convolutional layers, fully connected layers, and other components.
+
+7. GPUs, ReLU, Tensor, Matrix: GPUs (Graphics Processing Units) are hardware accelerators used for parallel computation in deep learning. ReLU (Rectified Linear Unit) is an activation function that introduces non-linearity. Tensors and matrices are data structures used to represent multi-dimensional data in neural networks.
+
+8. RGB, Pixel, Resizing Images: RGB (Red, Green, Blue) is a color representation used in images, with pixels being individual data points representing color values. Resizing images involves adjusting their dimensions to meet specific requirements, a common preprocessing step in deep learning workflows.
+
+## Alexnet
+In the code, AlexNet acts like a super-smart image detective. It's been trained on a ton of images, so it knows how to recognize different patterns and features in pictures. When we show it slides from a presentation, AlexNet quickly goes through its memory bank, identifies important details, and helps figure out what's in each image. It's like having a really experienced friend who can spot specific things in pictures without much effort. This makes the code much more efficient because we don't have to teach the model everything from scratch; AlexNet already has a good sense of what's going on in images. So, it's like having a smart assistant that makes the image classification task way easier and faster.
+https://www.researchgate.net/figure/Scheme-of-the-AlexNet-network-used_fig1_320052364
+
+
