@@ -67,6 +67,9 @@ In the code, AlexNet acts like a super-smart image detective. It's been trained 
 
 <img width="708" alt="Screenshot 2023-12-06 at 4 57 54 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/7ad055c6-d6aa-4cd9-b98b-4b1bc2f92c3f">
 
+## Link to Interactive Alexnet Architecture
+https://tensorspace.org/html/playground/alexnet.html
 
-
+## Link to my Code
+https://colab.research.google.com/drive/1KwxDKyJ9OKMa6emnG_exnEVpDShimKXt?usp=sharing
 
