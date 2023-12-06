@@ -64,6 +64,7 @@ Sure, here are brief definitions for each term in the given order:
 
 ## Alexnet
 In the code, AlexNet acts like a super-smart image detective. It's been trained on a ton of images, so it knows how to recognize different patterns and features in pictures. When we show it slides from a presentation, AlexNet quickly goes through its memory bank, identifies important details, and helps figure out what's in each image. It's like having a really experienced friend who can spot specific things in pictures without much effort. This makes the code much more efficient because we don't have to teach the model everything from scratch; AlexNet already has a good sense of what's going on in images. So, it's like having a smart assistant that makes the image classification task way easier and faster.
+
 <img width="708" alt="Screenshot 2023-12-06 at 4 57 54 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/7ad055c6-d6aa-4cd9-b98b-4b1bc2f92c3f">
 
 
