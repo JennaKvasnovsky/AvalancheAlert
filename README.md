@@ -41,5 +41,4 @@ Mountain with Avalanche
 Mountain without Avalanche
 ![AMountain](https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/dfd9c565-170e-47af-9fe5-d8413dea3033)
 ### Link to Data Deck Slides
-[https://docs.google.com/presentation/d/1VCm2VcFhpEISGbaMAU13tInZOcuI5w2qtCj1ZeBKtAM/edit?usp=sharing](url)
-
+[https://github.com/JennaKvasnovsky/PassBy-Insights/blob/main/README.md](Hey how)
