@@ -64,12 +64,10 @@ Sure, here are brief definitions for each term in the given order:
 
 ## Alexnet
 In the code, AlexNet acts like a super-smart image detective. It's been trained on a ton of images, so it knows how to recognize different patterns and features in pictures. When we show it slides from a presentation, AlexNet quickly goes through its memory bank, identifies important details, and helps figure out what's in each image. It's like having a really experienced friend who can spot specific things in pictures without much effort. This makes the code much more efficient because we don't have to teach the model everything from scratch; AlexNet already has a good sense of what's going on in images. So, it's like having a smart assistant that makes the image classification task way easier and faster.
-
-<img width="708" alt="Screenshot 2023-12-06 at 4 57 54 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/7ad055c6-d6aa-4cd9-b98b-4b1bc2f92c3f">
+<img width="708" alt="Screenshot 2023-12-06 at 4 57 54 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/aae3cafe-c9b8-44bc-a4ff-b7d0c36f58ce">
 
 ## Link to Interactive Alexnet Architecture
 https://tensorspace.org/html/playground/alexnet.html
-<img width="816" alt="Screenshot 2023-12-07 at 2 33 22 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/89400f79-a549-47c8-bcfa-83d6a0063e94">
 
 ## Link to my Code
 https://colab.research.google.com/drive/1KwxDKyJ9OKMa6emnG_exnEVpDShimKXt?usp=sharing
@@ -77,6 +75,13 @@ https://colab.research.google.com/drive/1KwxDKyJ9OKMa6emnG_exnEVpDShimKXt?usp=sh
 ## WANDB
 The wandb code in the script integrates the Weights and Biases (wandb) tool for experiment tracking and visualization. After installation and project initialization ("oh-ya"), it logs crucial metrics, including training loss and accuracy, using wb.log(). This allows real-time monitoring and analysis through the Weights and Biases interface. By leveraging wandb, the script provides a streamlined approach for tracking and visualizing the training process, enhancing reproducibility and collaboration in deep learning experiments.
 
+
+<img width="816" alt="Screenshot 2023-12-07 at 2 33 22 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/56649b1b-d6db-4b4c-85b1-e01bc213488e">
+
+
+<img width="903" alt="Screenshot 2023-12-07 at 2 33 32 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/a9fc2a20-aca8-4235-b657-f08d2ea4eac1">
+
+## My Weights & Biases
 
 https://wandb.ai/oh-ya/oh-ya/runs/5y7tdnqf?workspace=user-jennakvasnovsky
 
@@ -87,8 +92,6 @@ https://wandb.ai/oh-ya/oh-ya/runs/5y7tdnqf?workspace=user-jennakvasnovsky
 
 <img width="836" alt="Screenshot 2023-12-07 at 2 04 02 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/93940aa2-46bb-4b21-9228-bacdf7668dbe">
 
-
-<img width="903" alt="Screenshot 2023-12-07 at 2 33 32 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/f9288db3-b40a-4817-889e-7da9763ac4ca">
 
 
 
