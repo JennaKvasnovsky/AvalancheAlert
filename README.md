@@ -69,13 +69,26 @@ In the code, AlexNet acts like a super-smart image detective. It's been trained 
 
 ## Link to Interactive Alexnet Architecture
 https://tensorspace.org/html/playground/alexnet.html
+<img width="816" alt="Screenshot 2023-12-07 at 2 33 22 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/89400f79-a549-47c8-bcfa-83d6a0063e94">
 
 ## Link to my Code
 https://colab.research.google.com/drive/1KwxDKyJ9OKMa6emnG_exnEVpDShimKXt?usp=sharing
+
+## WANDB
+The wandb code in the script integrates the Weights and Biases (wandb) tool for experiment tracking and visualization. After installation and project initialization ("oh-ya"), it logs crucial metrics, including training loss and accuracy, using wb.log(). This allows real-time monitoring and analysis through the Weights and Biases interface. By leveraging wandb, the script provides a streamlined approach for tracking and visualizing the training process, enhancing reproducibility and collaboration in deep learning experiments.
+
+
+https://wandb.ai/oh-ya/oh-ya/runs/5y7tdnqf?workspace=user-jennakvasnovsky
 
 
 <img width="973" alt="Screenshot 2023-12-07 at 11 20 55 AM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/a0ae035e-3fd1-4ad1-8b4a-b5e47b732f3f">
 
 <img width="371" alt="Screenshot 2023-12-07 at 12 16 58 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/cff5e458-8438-4900-afa6-f16040ccb5e9">
+
+<img width="836" alt="Screenshot 2023-12-07 at 2 04 02 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/93940aa2-46bb-4b21-9228-bacdf7668dbe">
+
+
+<img width="903" alt="Screenshot 2023-12-07 at 2 33 32 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/f9288db3-b40a-4817-889e-7da9763ac4ca">
+
 
 
