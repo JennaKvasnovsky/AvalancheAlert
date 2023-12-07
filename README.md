@@ -89,13 +89,34 @@ https://wandb.ai/oh-ya/oh-ya/runs/5y7tdnqf?workspace=user-jennakvasnovsky
 
 The code demonstrates the visualization of feature maps within the context of a pre-trained AlexNet model. It begins by loading the model, preprocessing an image from a given URL, and extracting the weights of specific layers. The script then computes the feature maps by convolving the image with these filters, visualizing the results using the provided plotting functions. Feature maps are further processed through activation functions (ReLU) and pooling layers. The final layers involve linear transformations, resulting in a classification output. The script concludes with a prediction based on the highest activation in the output layer. Additionally, a utility function is included for plotting feature maps with their corresponding filters, offering insights into the learned patterns at different stages of the network. This code provides a comprehensive exploration of how feature maps are computed and manipulated through the layers of a deep neural network, shedding light on the model's understanding of hierarchical image features.
 
-
 <img width="973" alt="Screenshot 2023-12-07 at 11 20 55 AM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/a0ae035e-3fd1-4ad1-8b4a-b5e47b732f3f">
+
+## Link to my Code
+https://colab.research.google.com/github/JennaKvasnovsky/AvalancheAlert/blob/main/Avalanche_Working_Feature_Maps.ipynb
+
+## Pose
+
+The provided code implements human pose estimation using the MoveNet model, designed for single-person pose detection. MoveNet, available on TensorFlow Hub, offers Lightning for low latency and Thunder for high accuracy. The code demonstrates loading the model, running inference on a single image, and extending it to a video. It includes visualization and a cropping algorithm for improved subject focus. The code utilizes TensorFlow, TensorFlow Hub, OpenCV, and Matplotlib. MoveNet's speed and accuracy make it suitable for real-time fitness and wellness applications. The results are presented visually, including a GIF for video pose estimation. The code serves as a concise guide for MoveNet utilization.
 
 <img width="371" alt="Screenshot 2023-12-07 at 12 16 58 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/cff5e458-8438-4900-afa6-f16040ccb5e9">
 
+## Link to my Code
+https://colab.research.google.com/github/JennaKvasnovsky/AvalancheAlert/blob/main/Avalanche_Pose_Machine.ipynb
+
+## YOLOv5
+
+The presented code introduces YOLOv5, an object detection model implemented by Ultralytics. It starts by cloning the YOLOv5 repository and installing necessary dependencies. The script performs object detection on images using a pre-trained YOLOv5s model, specifying parameters like image size and confidence threshold. The results are visually displayed with Matplotlib, showcasing YOLOv5's ability to identify objects in diverse scenes, such as images of skiers. The code concludes by demonstrating how the model can be applied to user-provided images, either locally stored or downloaded from a URL. This showcases YOLOv5's versatility in handling different image sources for robust object detection.
+
 <img width="836" alt="Screenshot 2023-12-07 at 2 04 02 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/93940aa2-46bb-4b21-9228-bacdf7668dbe">
 
+## Link to my Code
+https://colab.research.google.com/github/JennaKvasnovsky/AvalancheAlert/blob/main/Avalanche_YOLOv5.ipynb
 
+## SAM Mask Generator
+The code showcases SAM (Segment Anything) for automatic mask generation. Utilizing the SamAutomaticMaskGenerator class, SAM efficiently processes prompts, sampling single-point prompts in a grid pattern over an image to predict multiple masks. These masks undergo quality filtering and deduplication, with options for further improvement through parameters like image cropping and postprocessing. The example demonstrates SAM's flexibility by providing various configuration options for mask sampling density, quality thresholds, and post-processing parameters. Finally, visualizations overlay the generated masks on an example image, highlighting SAM's versatility in automatic mask generation tasks.
 
+<img width="773" alt="Screenshot 2023-12-07 at 3 03 23 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/e2c846fc-1b39-4389-ba48-8cf7ac035087">
+
+## Link to my Code
+https://colab.research.google.com/github/JennaKvasnovsky/AvalancheAlert/blob/main/Avalanche_SAM.ipynb
 
