@@ -120,3 +120,6 @@ The code showcases SAM (Segment Anything) for automatic mask generation. Utilizi
 ## Link to my Code
 https://colab.research.google.com/github/JennaKvasnovsky/AvalancheAlert/blob/main/Avalanche_SAM.ipynb
 
+## Contact Information 
+If you have any questions or concerns please contact us at jkvasnovsky2023@fau.edu
+
