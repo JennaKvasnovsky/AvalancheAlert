@@ -76,5 +76,6 @@ https://colab.research.google.com/drive/1KwxDKyJ9OKMa6emnG_exnEVpDShimKXt?usp=sh
 
 <img width="973" alt="Screenshot 2023-12-07 at 11 20 55 AM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/a0ae035e-3fd1-4ad1-8b4a-b5e47b732f3f">
 
+<img width="371" alt="Screenshot 2023-12-07 at 12 16 58 PM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/cff5e458-8438-4900-afa6-f16040ccb5e9">
 
 
