@@ -85,6 +85,10 @@ The wandb code in the script integrates the Weights and Biases (wandb) tool for 
 
 https://wandb.ai/oh-ya/oh-ya/runs/5y7tdnqf?workspace=user-jennakvasnovsky
 
+## Feature Map
+
+The code demonstrates the visualization of feature maps within the context of a pre-trained AlexNet model. It begins by loading the model, preprocessing an image from a given URL, and extracting the weights of specific layers. The script then computes the feature maps by convolving the image with these filters, visualizing the results using the provided plotting functions. Feature maps are further processed through activation functions (ReLU) and pooling layers. The final layers involve linear transformations, resulting in a classification output. The script concludes with a prediction based on the highest activation in the output layer. Additionally, a utility function is included for plotting feature maps with their corresponding filters, offering insights into the learned patterns at different stages of the network. This code provides a comprehensive exploration of how feature maps are computed and manipulated through the layers of a deep neural network, shedding light on the model's understanding of hierarchical image features.
+
 
 <img width="973" alt="Screenshot 2023-12-07 at 11 20 55 AM" src="https://github.com/JennaKvasnovsky/AvalancheAlert/assets/143115856/a0ae035e-3fd1-4ad1-8b4a-b5e47b732f3f">
 
