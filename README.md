@@ -32,7 +32,7 @@ Avalanches pose significant threats and challenges due to their destructive natu
 
 Addressing the challenges associated with avalanches requires a combination of advanced technology, effective communication, public education, and comprehensive risk management strategies to minimize the impact of these natural events on both individuals and communities.
 
-## The Technology
+## The Data
 These are example images from the deck
 
 Mountain with Avalanche
